@@ -29,3 +29,25 @@ The challenge-specific README files include:
 4. Follow the listed deliverables and submission instructions exactly.
 
 If instructions differ between this root README and a challenge README, treat the challenge README as the source of truth.
+
+---
+
+## My Submission — Data Engineering Track
+
+```
+AmaliTech-DEG-Project-based-challenges-NoahLoicShyaka/
+└── data-engineering/
+    └── Logistics-auditor/
+        ├── olist_logistics_audit.ipynb   # Main analysis notebook (6 stories)
+        ├── olist_logistics_audit.html    # HTML export with all outputs and charts
+        ├── README.md                     # Executive summary, findings, technical notes
+        ├── .gitignore                    # Excludes raw CSVs and checkpoints
+        └── data/                         # Raw CSVs (not committed — excluded by .gitignore)
+            ├── olist_orders_dataset.csv
+            ├── olist_order_reviews_dataset.csv
+            ├── olist_customers_dataset.csv
+            ├── olist_products_dataset.csv
+            └── product_category_name_translation.csv
+```
+
+**Start here:** [`data-engineering/Logistics-auditor/README.md`](data-engineering/Logistics-auditor/README.md)
