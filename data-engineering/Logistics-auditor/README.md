@@ -11,8 +11,8 @@ This audit of Veridi Logistics' delivery data reveals that approximately 6.8% of
 ## B. Project Links
 
 - **Link to Notebook:** *(add your GitHub notebook link here)*
-- **Link to Dashboard:** *(add your dashboard link here)*
-- **Link to Presentation:** *(add your presentation link here)*
+- **Link to Dashboard:** *([add your dashboard link here](https://public.tableau.com/views/VeridiLogisticsAudit_17836095616720/VeridiLogisticsDeliveryPerformanceAudit?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))*
+- **Link to Presentation:** *([add your presentation link here](https://docs.google.com/presentation/d/17fV26TTqNRVwJLZ7MB1ioIOpU1IefR5_/edit?usp=sharing&ouid=118418320706272983328&rtpof=true&sd=true))*
 
 ---
 
@@ -171,22 +171,22 @@ Please edit this `README.md` file in your forked repository to include the follo
 
 ### 1. Repository & Code Checks
 
-- [ ] **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
-- [ ] **I have uploaded the `.ipynb` notebook file.**
-- [ ] **I have ALSO uploaded an HTML or PDF export** of the notebook.
-- [ ] **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
-- [ ] **My code uses Relative Paths.**
+- [✅ ] **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
+- [✅ ] **I have uploaded the `.ipynb` notebook file.**
+- [✅ ] **I have ALSO uploaded an HTML or PDF export** of the notebook.
+- [ ✅] **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
+- [ ✅] **My code uses Relative Paths.**
 
 ### 2. Deliverable Checks
 
-- [ ] **My Dashboard link is publicly accessible.** (No login required).
-- [ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
-- [ ] **I have updated this `README.md` file** with my Executive Summary and technical notes.
+- [✅ ] **My Dashboard link is publicly accessible.** (No login required).
+- [✅ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
+- [✅ ] **I have updated this `README.md` file** with my Executive Summary and technical notes.
 
 ### 3. Completeness
 
-- [ ] I have completed **User Stories 1-4**.
-- [ ] I have completed the **"Candidate's Choice"** challenge and explained it in the README.
+- [✅ ] I have completed **User Stories 1-4**.
+- [✅ ] I have completed the **"Candidate's Choice"** challenge and explained it in the README.
 
 **✅ Only when you have checked every box above, proceed to the submission form.**
 
